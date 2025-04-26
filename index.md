@@ -9,7 +9,7 @@
 - [Рішення та документи](/rishennia-ta-dokumenty)
 - [Запитання по генплану](/zapytannia-po-henplanu)
 - [Пропозиції від громадськості](/propozytsii-vid-hromadskosti)
-- [Про нас](/about)
+- [Про нас](/pro-nas)
 
 ## Вступне слово
 
