@@ -7,7 +7,7 @@
 - [Діючий генплан 1999](/diiuchyi-henplan-1999)
 - [Старі карти Броварів](/stari-karty-brovariv)
 - [Рішення та документи](/rishennia-ta-dokumenty)
-- [Запитання по генплану](/faq)
+- [Запитання по генплану](/zapytannia-po-henplanu)
 - [Пропозиції від громадськості](/proposals)
 - [Про нас](/about)
 
