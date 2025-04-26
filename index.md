@@ -8,7 +8,7 @@
 - [Старі карти Броварів](/stari-karty-brovariv)
 - [Рішення та документи](/rishennia-ta-dokumenty)
 - [Запитання по генплану](/zapytannia-po-henplanu)
-- [Пропозиції від громадськості](/proposals)
+- [Пропозиції від громадськості](/propozytsii-vid-hromadskosti)
 - [Про нас](/about)
 
 ## Вступне слово
