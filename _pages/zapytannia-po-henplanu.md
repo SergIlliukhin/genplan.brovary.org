@@ -1,3 +1,7 @@
+---
+title: Запитання по генплану
+---
+
 # ЗАУВАЖЕННЯ ТА ПРОПОЗИЦІЇ ДО ЗМІН ГЕНЕРАЛЬНОГО ПЛАНУ М.БРОВАРИ
 
 Запитання до генплану м.Бровари - https://www.google.com/maps/d/viewer?mid=1P68nXbiq4jJwoPi2XvjFdzeysIo&usp=sharing

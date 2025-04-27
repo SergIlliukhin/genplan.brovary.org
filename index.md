@@ -1,4 +1,12 @@
-# Генплан Броварів
+---
+layout: home
+title: Головна
+coverImage: /assets/images/header.jpeg
+---
+
+# {{ site.title }}
+
+{{ site.description }}
 
 ## Навігація
 
