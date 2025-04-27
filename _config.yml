@@ -1,6 +1,6 @@
 title: Генплан Броварів
 description: Новий генплан Броварів
-baseurl: "/genplan.brovary.org"" # the subpath of your site, e.g. /blog
+baseurl: "/genplan.brovary.org" # the subpath of your site, e.g. /blog
 url: "https://sergilliukhin.github.io" # the base hostname & protocol for your site
 
 # Build settings
