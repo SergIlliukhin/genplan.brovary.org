@@ -10,13 +10,11 @@ coverImage: /assets/images/header.jpeg
 
 ## Навігація
 
-- [Проект генплану 2015](/proekt-henplanu-2015)
-- [Діючий генплан 1999](/diiuchyi-henplan-1999)
-- [Старі карти Броварів](/stari-karty-brovariv)
-- [Рішення та документи](/rishennia-ta-dokumenty)
-- [Запитання по генплану](/zapytannia-po-henplanu)
-- [Пропозиції від громадськості](/propozytsii-vid-hromadskosti)
-- [Про нас](/pro-nas)
+{% for page in site.pages %}
+{% if page.title %}
+- [{{ page.title }}]({{ page.url | relative_url }})
+{% endif %}
+{% endfor %}
 
 ## Вступне слово
 
