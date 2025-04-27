@@ -21,11 +21,3 @@ coverImage: "header.jpeg"
 | 12 | [Схема інженерної підготовки та захисту території в системі розселення міст, М 1:25000](https://drive.google.com/file/d/0By2guNGEQkueMUJJXzNwamEwS2M/view?usp=sharing) | [Переглянути](https://drive.google.com/file/d/0By2guNGEQkuedEdTdGRXVDZ6bWs/view?usp=sharing) | [Завантажити](https://drive.google.com/file/d/0By2guNGEQkuedEdTdGRXVDZ6bWs/view?usp=sharing) |
 | 13 | [Пояснювальна записка. Том I.](/assets/files/Tom%5FI.doc) | | |
 | 14 | [Основні положення.](/assets/files/Osn%5Fpolog.doc) | | |
-
-## Контакти
-
-Контактна особа, відповідальна за комунікацію та поширення інформації про роботу Штабу:
-- **Бажен Левковець**
-- Телефон: 063-535-12-10
-
-[← Назад до головної](/) 
