@@ -2,8 +2,6 @@
 title: Діючий генплан 1999
 ---
 
-# Діючий генплан 1999
-
 На сьогодні для міста Бровари діє генеральний план, прийнятий 1999 року. Пропонуємо документи для ознайомлення.
 
 | [Пояснювальна записка. ДСК. інв. № 12057](https://drive.google.com/file/d/0B5GzpYvnFyhtWjRVaFpZTlJ1NEU/view?usp=sharing) | [Схема функціонально-планувальної організації](https://drive.google.com/file/d/0B5GzpYvnFyhtRFZJdHpSNC04VUE/view?usp=sharing) |
