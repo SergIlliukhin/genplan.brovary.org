@@ -1,5 +1,6 @@
 ---
 title: Зауваження та пропозиції до змін генерального плану м.Бровари
+coverImage: "header.jpeg"
 ---
 
 Запитання до генплану м.Бровари - https://www.google.com/maps/d/viewer?mid=1P68nXbiq4jJwoPi2XvjFdzeysIo&usp=sharing
