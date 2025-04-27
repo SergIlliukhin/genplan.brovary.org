@@ -3,7 +3,7 @@ title: Зауваження та пропозиції до змін генера
 coverImage: "header.jpeg"
 ---
 
-Запитання до генплану м.Бровари - https://www.google.com/maps/d/viewer?mid=1P68nXbiq4jJwoPi2XvjFdzeysIo&usp=sharing
+[Запитання до генплану м.Бровари - Google Maps](https://www.google.com/maps/d/viewer?mid=1P68nXbiq4jJwoPi2XvjFdzeysIo&usp=sharing)
 
 1. Надані текстові та графічні матеріали не містять визначення термінів (етапності) як Генерального плану в цілому, так і реалізації проектів інженерної підготовки та захисту території, та водовідведення.
 
