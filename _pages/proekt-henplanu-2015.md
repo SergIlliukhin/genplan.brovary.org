@@ -19,8 +19,8 @@ coverImage: "header.jpeg"
 | 10 | [Схема інженерного обладнання території. Газо- та теплопостачання, М 1:10000](https://drive.google.com/file/d/0By2guNGEQkueY3lkWlNXd1JzanM/view?usp=sharing) | [Переглянути](https://drive.google.com/file/d/0By2guNGEQkueU1RIekU3TlgwbjQ/view?usp=sharing) | [Завантажити](https://drive.google.com/file/d/0By2guNGEQkueU1RIekU3TlgwbjQ/view?usp=sharing) |
 | 11 | [Схема інженерного обладнання території. Телефонний зв'язок та проводове мовлення, М 1:10000](https://drive.google.com/file/d/0By2guNGEQkueR3V0bVl3bVZVenM/view?usp=sharing) | [Переглянути](https://drive.google.com/file/d/0By2guNGEQkueWnZDMjl0RjZHOUE/view?usp=sharing) | [Завантажити](https://drive.google.com/file/d/0By2guNGEQkueWnZDMjl0RjZHOUE/view?usp=sharing) |
 | 12 | [Схема інженерної підготовки та захисту території в системі розселення міст, М 1:25000](https://drive.google.com/file/d/0By2guNGEQkueMUJJXzNwamEwS2M/view?usp=sharing) | [Переглянути](https://drive.google.com/file/d/0By2guNGEQkuedEdTdGRXVDZ6bWs/view?usp=sharing) | [Завантажити](https://drive.google.com/file/d/0By2guNGEQkuedEdTdGRXVDZ6bWs/view?usp=sharing) |
-| 13 | [Пояснювальна записка. Том I.](/images/maps/Tom%5FI.doc) | | |
-| 14 | [Основні положення.](/images/maps/Osn%5Fpolog.doc) | | |
+| 13 | [Пояснювальна записка. Том I.](/assets/files/Tom%5FI.doc) | | |
+| 14 | [Основні положення.](/assets/files/Osn%5Fpolog.doc) | | |
 
 ## Контакти
 
